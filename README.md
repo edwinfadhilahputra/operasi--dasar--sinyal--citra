@@ -5,8 +5,8 @@
 ---
 
 ## 👤 Identitas Mahasiswa
-* **Nama:** Abinaya Azhar Probo Kusumo
-* **NIM:** 452024611054
+* **Nama:** Edwin Fadhilah Putra
+* **NIM:** 452024611002
 * **Kelas/Prodi:** A1 / Teknik Informatika
 
 ---
