@@ -30,7 +30,7 @@
 
 ### 1. Kloning Repositori
 ```bash
-[git clone [https://github.com/ABIN-KUN123/operasi-dasar-sinyal-citra.git](https://github.com/edwinfadhilahputra/operasi--dasar--sinyal--citra)
+[git clone [https://github.com/edwinfadhilahputra/operasi--dasar--sinyal--citra](https://github.com/edwinfadhilahputra/operasi--dasar--sinyal--citra)
 cd operasi-dasar-sinyal-citra](url)
 
 ```
